@@ -1,2 +1,4 @@
 # Financial-Performance-Risk-Dashboard
 Interactive financial dashboard for multi-year performance and risk analysis with KPI tracking and dynamic filtering.
+
+This project presents a multi-page executive dashboard designed to analyze multi-year financial performance and risk across multiple companies. It includes KPI cards such as Average Revenue, Return on Equity (ROE), Debt-to-Equity Ratio, and Financial Strength Index, along with interactive visualizations for revenue trends, profitability, liquidity, leverage, and cash flow analysis. Dynamic slicers allow users to filter insights by company and year, enabling comparative evaluation and deeper financial understanding. The dashboard helps identify high-growth, high-risk, and declining companies, supporting data-driven strategic financial decision-making through clear and interactive business intelligence reporting.
